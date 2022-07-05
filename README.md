@@ -1,0 +1,1 @@
+# Online_Retail_RFM_Analizi_ile_Musteri_Segmentasyonu
